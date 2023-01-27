@@ -1,1 +1,1 @@
-![snake gif](https://github.com/nchertolin/SoulTree-nchertolin/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/nchertolin/SoulTree-nchertolin/output/github-contribution-grid-snake.svg)
